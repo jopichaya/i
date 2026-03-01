@@ -122,9 +122,9 @@ h1 {
 .top-right-photo {
     position: fixed;
     top: 15px;
-    right: 15px;
-    width: 35px;
-    height: 35px;
+    right: 20px;
+    width: 2.5px;
+    height: 2.5px;
     object-fit: cover;
     border-radius: 50%;
     border: 2px solid white;
