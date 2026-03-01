@@ -119,17 +119,7 @@ h1 {
 }
 
 #no-btn {
-.top-right-photo {
-    position: fixed;
-    top: 15px;
-    right: 20px;
-    width: 0.5px;
-    height: 0.5px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 2px solid white;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-}
+
 
     background: linear-gradient(135deg, #e74c3c, #c0392b);
     color: white;
