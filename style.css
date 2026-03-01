@@ -123,8 +123,8 @@ h1 {
     position: fixed;
     top: 15px;
     right: 20px;
-    width: 2.5px;
-    height: 2.5px;
+    width: 0.5px;
+    height: 0.5px;
     object-fit: cover;
     border-radius: 50%;
     border: 2px solid white;
